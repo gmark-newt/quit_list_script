@@ -1,0 +1,10 @@
+First Name,Last Name,Email,Company,Date,Description,Reason,State,full name,
+Jessica,Molnar,vidal_marvin@boyer.net,Wawa,Nov-24-15,was not ready to comit to program,voluntary,terminated,JessicaMolnar,
+Susan,McDowell,norene_jakubowski@kovacekstanton.org,Aetna,01-Feb-16,"kevin called her- thought he was from Newtopia, was really upset because he did not call her at requested time. Does not want to participate",voluntary,terminated,SusanMcDowell,"[VLOOKUP(K2,'Clients who have quit'!$I:$I,1,FALSE)]"
+Francis,Omware,rowena@colekuhic.info,Wawa,15-Dec-15,"not interested in the program, can't commit",involuntary,terminated,FrancisOmware,
+Lee,Campbell,manley@klocko.info,Aetna,02-Feb-16,Not interested in program-,involuntary,terminated,LeeCampbell,
+Terri,Noble,sven.rempel@witting.biz,Aetna,26-Jan-16,NobleTL@aetna.com,voluntary,on_hold,TerriNoble,
+Angel,Colombo,leonard_maggio@conn.com,Aetna,04-Feb-16,doing a weight loss program / challenge.  It’s called get off the couch and it incorporates a weight loss program and training program which includes a free Zumba class.,voluntary,on_hold,AngelColombo,
+Nancy,Haase,jerod@goodwinryan.name,Aetna,05-Feb-16,did further research on program and is not interested,involuntary,on_hold,NancyHaase,
+Raquel,Alba,shawna@lubowitzschuster.name,Aetna,08-Feb-16,Not interested in program-,involuntary,on_hold,RaquelAlba,
+Michelle,Hines,lyla_schoen@moenleannon.name,Aetna,08-Feb-16,committed to the wellness works programs at Aetna and wants to finish these programs first,voluntary,terminated,MichelleHines,
